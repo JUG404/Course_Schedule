@@ -64,10 +64,6 @@ project/
 
 ## Screenshots
 
-
-
-## Screenshot
-
 ![Course Schedule](images/Course_Schedule.png)
 
 
