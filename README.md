@@ -64,9 +64,7 @@ project/
 
 ## Screenshots
 
-![Course Schedule](images/Course_Schedule.png)
-
-
+![Course_Schedule.png](./images/Course_Schedule.png)
 
 ### Learning Objectives
 
